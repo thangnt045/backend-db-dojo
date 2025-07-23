@@ -1,0 +1,27 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+env/
+venv/
+ENV/
+
+# Database files
+*.db
+*.sqlite
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# macOS system files
+.DS_Store
+
+# IDE/editor files (optional, but recommended)
+.vscode/
+.idea/
+
+# Test & coverage output
+*.cover
+coverage.xml
+htmlcov/
